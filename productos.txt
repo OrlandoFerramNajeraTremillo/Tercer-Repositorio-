@@ -1,0 +1,5 @@
+1|Sabritas Adobadas|18|Botanas
+2|Cacahuate Japones|22|Botanas
+1|Refresco Coca Cola|20|Bebidas
+1|Galletas Emperador|14|Galletas
+1|Chocolate|14|Dulces
