@@ -1,0 +1,5 @@
+Galletas Emperador|14.0|2|28.0
+Cacahuate Japones|22.0|3|66.0
+Refresco Coca Cola|20.0|4|80.0
+Galletas Emperador|14.0|2|28.0
+Chocolate|14.0|5|70.0
